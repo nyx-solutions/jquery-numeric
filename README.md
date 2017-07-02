@@ -4,6 +4,12 @@ Allows only valid numbers to be typed into a text box. Can take negative numbers
 
 Original Plugin: http://www.texotela.co.uk/code/jquery/numeric/.
 
+## Installation
+
+* Install with [npm](https://npmjs.org): `npm install jquery.numeric --save`
+* [Download the latest release][download]
+* Clone the repo: `git clone https://github.com/nox-it/jquery-numeric.git`
+
 ## Usage
 
 ```html
